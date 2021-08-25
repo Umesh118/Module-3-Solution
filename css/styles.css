@@ -1,0 +1,38 @@
+/* Box Sizing */
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+#nav-list li{
+    padding: 5px 0;
+    background-color: lightsalmon;
+}
+
+.tall-section{
+    height: 1000px;
+    background-color: crimson;
+}
+
+
+
+button.navbar-toggle, .icon-bar {
+    border: 1px solid #61122f;
+}
+
+
+
+.description {
+    background-color: burlywood;
+    margin-bottom: 15px;
+    
+    height: 350px;
+    width: 100%;
+    position: relative;
+    border: 2px solid black;
+    overflow: hidden;
+    
+    
+    
+}
